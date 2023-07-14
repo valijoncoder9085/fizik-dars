@@ -7,7 +7,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     titleTemplate: '',
-    title: 'fizika-darsliklar',
+    title: 'Fizika fanini rivojlantirishga qaratilgan elektron platforma prototipi',
     htmlAttrs: {
       lang: 'en'
     },
