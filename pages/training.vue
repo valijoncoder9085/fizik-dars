@@ -18,7 +18,7 @@ export default {
         {
           icon: 'labar.png',
           title: "Labaratoriya",
-          to: '/eight'
+          to: '/training'
         },
       ]
     }

@@ -23,12 +23,12 @@ export default {
         {
           icon: 'uslubiy.png',
           title: "Uslubiy ko'rsatmalar",
-          to: '/nine'
+          to: '/metodic'
         },
         {
           icon: 'tarqatma.png',
           title: "Tarqatma",
-          to: '/ten'
+          to: '/metodic'
         },
       ]
     }
