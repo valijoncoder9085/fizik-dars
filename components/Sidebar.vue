@@ -4,7 +4,7 @@
       app
       elevation="0"
       class="px-2"
-      style="background-color: inherit"
+      style="background-color: inherit; text-align: center"
     >
       <v-spacer/>
       <v-toolbar-title>
