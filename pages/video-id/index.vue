@@ -13,12 +13,12 @@ export default {
         {
           icon: 'video-1.png',
           title: "Aylanma harakat",
-          to: '/video-id/1'
+          to: '/render-video/1'
         },
         {
           icon: 'video-2.png',
           title: "Dinamika qonunlari",
-          to: '/video-id/2'
+          to: '/render-video/2'
         },
         {
           icon: 'video-3.png',
